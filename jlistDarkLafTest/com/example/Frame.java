@@ -1,3 +1,5 @@
+package com.example;
+
 import java.awt.*;
 
 import javax.swing.*;
@@ -9,7 +11,7 @@ import com.github.weisj.darklaf.LafManager;
 * New Test Code JList
 * @author weisj
 */
-class Test {
+public class Frame {
 
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
